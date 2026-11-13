@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/peak_gull_7219), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-13 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-13 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-06-24 |
 
