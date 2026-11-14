@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/peak_gull_7219), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-11-14 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-14 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-11-14 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-13 |
