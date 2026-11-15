@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/peak_gull_7219), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-11-15 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-11-15 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-11-15 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-11-15 |
