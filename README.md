@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/peak_gull_7219), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-11-15 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-11-15 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-11-14 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-14 |
