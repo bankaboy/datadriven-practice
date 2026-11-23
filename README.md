@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/peak_gull_7219), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-11-23 |
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-11-23 |
 | [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-11-15 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-11-15 |
